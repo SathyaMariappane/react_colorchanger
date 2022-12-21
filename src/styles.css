@@ -1,0 +1,14 @@
+.App {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  .border{
+    border-color: black;
+    border-style:double;
+    border-radius: 5px;
+  }
+  .head{
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+  }
